@@ -1,0 +1,19 @@
+Écriture pas très grande
+Entre 27 et 33 pages y compris l'annexe(cahier de charge, les choses qu'on veut ajouter pour mieux comprendre)
+pas de grand logo !
+le code pas en noir en arrière plan
+pas en paysage
+présentation des outils avec leurs logos (pas de prob)
+l'entreprise une à deux page
+1 à 2 page pour expliquer un prob
+diagramme de classe
+présenter les outils en 2 3 page
+le mvc en quelques lignes
+glossaire(les mots et leurs explication)
+rouleau mieux de réglette
+et pas beaucoup réduire les marges
+mettre les diagrammes(pas très grand dans le rapport ou en grand dans l'annexe)
+on peut faire un index pour les figures et les numéroté
+pas faire son rapport la veille
+bien choisir son titre de contenue sur le sommaire si sa plusieurs pages(faut que ça soit important)
+taille de police et police(verdana)
