@@ -26,8 +26,18 @@ class hellowidget extends WP_Widget
             </p>
             <input type="submit" />
         </form>
+        
+        <?php
+        global $wpdb;
+        $row=$wpdb->get_row("SELECT * FROM {$wpdb->prefix}helloworld_commentaire");
+        // var_dump($row);
+        $comm=$row->comm;
+        // var_dump($comm);
+        echo'<div style="color:'.$couleur.'">'.$comm.'</div>';
 
 
+
+        ?>
     <?php echo $args['after_widget'];
     }
     public function form($instance)
